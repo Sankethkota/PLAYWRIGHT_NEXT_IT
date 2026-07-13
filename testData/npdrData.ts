@@ -1,0 +1,25 @@
+export const npdrData = {
+
+    receiptLocation: 'B03063-4189-YERRAGUNDLA OL AP CHIT',
+    chooseLifeType : 'Own Life',
+    searchBy: 'New Customer',
+    salutation: 'Mr.',
+    firstName: 'ghgjhg',
+    middleName: 'hgguh',
+    lastName: 'hgyugugu',
+    laAadhaarLastFourDigits: '6565',
+    planName: 'Shriram Life Assured Savings Plan V06',
+    premiumPayingFrequency: 'Yearly',
+    nachCollected: 'Collected',
+    agentCode: 'M04139',
+    address1: '36',
+    pincode: '500044',
+    area: 'Nallakunta',
+    mobile:'7654676767',
+    amlCollected: 'PAN',
+    laPanNo: 'CFDRT5678Y',
+    receipetAmount: '50000',
+    paymentType: 'Cash',
+    instrumentAmount: '50000', 
+
+}
