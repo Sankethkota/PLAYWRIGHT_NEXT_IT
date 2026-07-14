@@ -26,4 +26,4 @@ export class LoginPage{
     }
 }
 
-//addi g comment for git practice
+//adding comment for git practice for git diff scenario
