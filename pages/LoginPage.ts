@@ -25,3 +25,5 @@ export class LoginPage{
         await this.loginButton.click();
     }
 }
+
+//addi g comment for git practice
